@@ -29,6 +29,8 @@ Deployment on OG
 ## ✅ Proof of Deployment
 
 Contract Address:0x8f623bEB9bb285eE169CFC9DECE1D64107D8d5Aa
+[Link](https://chainscan-galileo.0g.ai/address/0x8f623beb9bb285ee169cfc9dece1d64107d8d5aa)
+
 
 
 
