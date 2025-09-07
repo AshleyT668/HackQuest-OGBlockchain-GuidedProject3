@@ -21,7 +21,7 @@ Built Chatbot Logic
 -Implemented intents, fallback responses, and basic dialogue management using the SDK.
 
 Integration and Testing
--Connected the chatbot to a simple interface (CLI/web) and tested it with sample queries.
+-Connected the chatbot to a simple interface and tested it with sample queries.
 
 Deployment on OG
 -Deployed the chatbot using OG’s supported runtime and verified functionality.
@@ -29,5 +29,6 @@ Deployment on OG
 ## ✅ Proof of Deployment
 
 Contract Address:0x8f623bEB9bb285eE169CFC9DECE1D64107D8d5Aa
+
 
 
